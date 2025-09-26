@@ -1,0 +1,1 @@
+mkdir web-solcd web-solgit initecho "# Web.sol Smart Contract" >> README.mdgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/your-username/web.sol.gitgit push -u origin maincp /path/to/web.sol .git add web.solgit commit -m "Add WebStorage contract"git push origin main
